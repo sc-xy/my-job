@@ -1,4 +1,4 @@
-package top.sc_xy.model;
+package top.sc_xy.model.task;
 
 /**
  * @author sc-xy

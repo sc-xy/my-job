@@ -1,6 +1,6 @@
 package top.sc_xy.handler;
 
-import top.sc_xy.model.TreeTask;
+import top.sc_xy.model.task.TreeTask;
 
 /**
  * @author sc-xy
